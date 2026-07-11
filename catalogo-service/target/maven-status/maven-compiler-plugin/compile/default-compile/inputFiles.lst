@@ -1,0 +1,14 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\assembler\VideojuegoModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\CatalogoServiceApplication.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\controller\VideojuegoController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\dto\VideojuegoRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\dto\VideojuegoResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\exception\ProductoExistenteException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\exception\ProductoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\model\Videojuego.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\repository\VideojuegoRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\catalogo-service\src\main\java\cl\evaluacion\transversal\catalogo_service\service\VideojuegoService.java

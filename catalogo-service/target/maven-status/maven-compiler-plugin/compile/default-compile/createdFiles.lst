@@ -1,0 +1,15 @@
+cl\evaluacion\transversal\catalogo_service\model\Videojuego.class
+cl\evaluacion\transversal\catalogo_service\dto\VideojuegoRequest.class
+cl\evaluacion\transversal\catalogo_service\dto\VideojuegoResponse.class
+cl\evaluacion\transversal\catalogo_service\CatalogoServiceApplication.class
+cl\evaluacion\transversal\catalogo_service\exception\ApiError.class
+cl\evaluacion\transversal\catalogo_service\exception\ProductoExistenteException.class
+cl\evaluacion\transversal\catalogo_service\model\Videojuego$VideojuegoBuilder.class
+cl\evaluacion\transversal\catalogo_service\assembler\VideojuegoModelAssembler.class
+cl\evaluacion\transversal\catalogo_service\service\VideojuegoService.class
+cl\evaluacion\transversal\catalogo_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\catalogo_service\exception\ProductoNoEncontradoException.class
+cl\evaluacion\transversal\catalogo_service\controller\VideojuegoController.class
+cl\evaluacion\transversal\catalogo_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\catalogo_service\repository\VideojuegoRepository.class
+cl\evaluacion\transversal\catalogo_service\dto\ErrorResponse.class

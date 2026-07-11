@@ -1,0 +1,6 @@
+INSERT INTO despachos (codigo_seguimiento, empresa_envio, estado, direccion_destino, fecha_estimada, id_pedido) VALUES
+                                                                                                               ('CHX-987654321', 'Chilexpress', 'En tránsito', 'Av. Vicuña Mackenna 4917, San Joaquín, Santiago', '2026-07-15', 1,),
+                                                                                                               ('STK-112233445', 'Starken', 'Preparando pedido', 'Las Salinas 300, El Tabo', '2026-07-18', 2),
+                                                                                                               ('BLU-554433221', 'BlueExpress', 'Entregado', 'Isidoro Dubournais 040, El Quisco', '2026-07-22', 3),
+                                                                                                               ('STK-998877665', 'Starken', 'En sucursal de destino', 'Av. Providencia 1234, Santiago', '2026-07-25', 4),
+                                                                                                               ('CHX-123456789', 'Chilexpress', 'En espera', 'Camino a Isla Negra s/n, El Quisco', '2026-08-01', 5);

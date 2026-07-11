@@ -1,0 +1,15 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\assembler\SeguimientoModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\controller\SeguimientoController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\dto\LogisticaRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\dto\LogisticaResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\exception\CodigoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\exception\SeguimientoExisteException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\exception\SeguimientoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\LogisticaServiceApplication.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\model\Seguimiento.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\repository\SeguimientoRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\logistica-service\src\main\java\cl\evaluacion\transversal\logistica_service\service\SeguimientoService.java

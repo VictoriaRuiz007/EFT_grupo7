@@ -1,0 +1,16 @@
+cl\evaluacion\transversal\logistica_service\model\Seguimiento$SeguimientoBuilder.class
+cl\evaluacion\transversal\logistica_service\assembler\SeguimientoModelAssembler.class
+cl\evaluacion\transversal\logistica_service\service\SeguimientoService.class
+cl\evaluacion\transversal\logistica_service\controller\SeguimientoController.class
+cl\evaluacion\transversal\logistica_service\exception\SeguimientoNoEncontradoException.class
+cl\evaluacion\transversal\logistica_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\logistica_service\dto\LogisticaResponse.class
+cl\evaluacion\transversal\logistica_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\logistica_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\logistica_service\exception\CodigoNoEncontradoException.class
+cl\evaluacion\transversal\logistica_service\dto\LogisticaRequest.class
+cl\evaluacion\transversal\logistica_service\exception\ApiError.class
+cl\evaluacion\transversal\logistica_service\exception\SeguimientoExisteException.class
+cl\evaluacion\transversal\logistica_service\repository\SeguimientoRepository.class
+cl\evaluacion\transversal\logistica_service\model\Seguimiento.class
+cl\evaluacion\transversal\logistica_service\LogisticaServiceApplication.class
