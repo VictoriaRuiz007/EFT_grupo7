@@ -1,0 +1,15 @@
+cl\evaluacion\transversal\notificacion_service\exception\ApiError.class
+cl\evaluacion\transversal\notificacion_service\assembler\NotificacionModelAssembler.class
+cl\evaluacion\transversal\notificacion_service\dto\NotificacionResponse.class
+cl\evaluacion\transversal\notificacion_service\exception\NotificacionNoEncontradaException.class
+cl\evaluacion\transversal\notificacion_service\model\Notificacion$NotificacionBuilder.class
+cl\evaluacion\transversal\notificacion_service\service\NotificacionService.class
+cl\evaluacion\transversal\notificacion_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\notificacion_service\NotificacionServiceApplication.class
+cl\evaluacion\transversal\notificacion_service\repository\NotificacionRepository.class
+cl\evaluacion\transversal\notificacion_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\notificacion_service\model\Notificacion.class
+cl\evaluacion\transversal\notificacion_service\exception\UsuarioNoEncontradoException.class
+cl\evaluacion\transversal\notificacion_service\controller\NotificacionController.class
+cl\evaluacion\transversal\notificacion_service\dto\NotificacionRequest.class
+cl\evaluacion\transversal\notificacion_service\dto\ErrorResponse.class

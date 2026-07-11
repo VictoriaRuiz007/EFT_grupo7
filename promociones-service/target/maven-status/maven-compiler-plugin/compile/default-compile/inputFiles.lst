@@ -1,0 +1,14 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\assembler\PromocionModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\controller\PromocionController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\dto\PromocionRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\dto\PromocionResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\exception\PromocionExisteException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\exception\PromocionNoEncontradaException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\model\Promocion.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\PromocionesServiceApplication.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\repository\PromocionRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\promociones-service\src\main\java\cl\evaluacion\transversal\promociones_service\service\PromocionService.java

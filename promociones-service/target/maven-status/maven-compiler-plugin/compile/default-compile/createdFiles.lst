@@ -1,0 +1,15 @@
+cl\evaluacion\transversal\promociones_service\repository\PromocionRepository.class
+cl\evaluacion\transversal\promociones_service\dto\PromocionResponse.class
+cl\evaluacion\transversal\promociones_service\exception\ApiError.class
+cl\evaluacion\transversal\promociones_service\model\Promocion$PromocionBuilder.class
+cl\evaluacion\transversal\promociones_service\dto\PromocionRequest.class
+cl\evaluacion\transversal\promociones_service\PromocionesServiceApplication.class
+cl\evaluacion\transversal\promociones_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\promociones_service\controller\PromocionController.class
+cl\evaluacion\transversal\promociones_service\exception\PromocionExisteException.class
+cl\evaluacion\transversal\promociones_service\model\Promocion.class
+cl\evaluacion\transversal\promociones_service\assembler\PromocionModelAssembler.class
+cl\evaluacion\transversal\promociones_service\service\PromocionService.class
+cl\evaluacion\transversal\promociones_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\promociones_service\exception\PromocionNoEncontradaException.class
+cl\evaluacion\transversal\promociones_service\exception\GlobalExceptionHandler.class

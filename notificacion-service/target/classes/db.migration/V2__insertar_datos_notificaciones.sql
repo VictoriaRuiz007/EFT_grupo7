@@ -1,0 +1,6 @@
+INSERT INTO notificaciones (id_usuario, tipo_notificacion, mensaje, fecha_envio) VALUES
+                                                                               (2, 'Pedido', 'Tu pedido del juego Sons of the Forest ha sido confirmado y está en preparación.', '2026-07-08 09:00:00'),
+                                                                               (3, 'Pago', 'El pago de tu silla de escritorio Capricorn negra ha sido procesado exitosamente.', '2026-07-08 14:30:15'),
+                                                                               (4, 'Soporte', 'Tu ticket de soporte técnico sobre problemas de rendimiento con el procesador Ryzen 5 5600G ha sido respondido por un agente.', '2026-07-05 18:45:30'),
+                                                                               (2, 'Pedido', 'Tu copia física de Dragon Ball Xenoverse 2 ya está en camino a la sucursal de entrega en San Joaquín.', '2026-07-07 10:15:00'),
+                                                                               (4, 'Pago', 'Hemos detectado un problema procesando tu último pago. Por favor, revisa tus tarjetas guardadas en tu perfil.', '2026-07-05 12:00:00');
