@@ -1,0 +1,14 @@
+cl\evaluacion\transversal\wishlist_service\controller\DeseoController.class
+cl\evaluacion\transversal\wishlist_service\model\Deseo$DeseoBuilder.class
+cl\evaluacion\transversal\wishlist_service\dto\DeseoResponse.class
+cl\evaluacion\transversal\wishlist_service\service\DeseoService.class
+cl\evaluacion\transversal\wishlist_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\wishlist_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\wishlist_service\repository\DeseoRepository.class
+cl\evaluacion\transversal\wishlist_service\exception\WishlistNoExisteException.class
+cl\evaluacion\transversal\wishlist_service\WishlistServiceApplication.class
+cl\evaluacion\transversal\wishlist_service\assembler\DeseoModelAssembler.class
+cl\evaluacion\transversal\wishlist_service\model\Deseo.class
+cl\evaluacion\transversal\wishlist_service\exception\ApiError.class
+cl\evaluacion\transversal\wishlist_service\dto\DeseoRequest.class
+cl\evaluacion\transversal\wishlist_service\exception\GlobalExceptionHandler.class

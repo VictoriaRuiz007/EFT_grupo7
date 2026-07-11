@@ -1,0 +1,138 @@
+version: '3.8'
+
+services:
+  eureka-server:
+    build:
+      context: ./eureka-server
+    container_name: eureka-server
+    ports:
+      - "8761:8761"
+    networks:
+      - tienda-network
+
+  api-gateway:
+    build:
+      context: ./api-gateway
+    container_name: api-gateway
+    ports:
+      - "8080:8080"
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  catalogo-service:
+    build:
+      context: ./catalogo-service
+    container_name: catalogo-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  faq-service:
+    build:
+      context: ./faq-service
+    container_name: faq-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  logistica-service:
+    build:
+      context: ./logistica-service
+    container_name: logistica-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  notificacion-service:
+    build:
+      context: ./notificacion-service
+    container_name: notificacion-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  pago-service:
+    build:
+      context: ./pago-service
+    container_name: pago-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  pedido-service:
+    build:
+      context: ./pedido-service
+    container_name: pedido-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  promociones-service:
+    build:
+      context: ./promociones-service
+    container_name: promociones-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  soporte-service:
+    build:
+      context: ./soporte-service
+    container_name: soporte-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  usuario-service:
+    build:
+      context: ./usuario-service
+    container_name: usuario-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+  wishlist-service:
+    build:
+      context: ./wishlist-service
+    container_name: wishlist-service
+    depends_on:
+      - eureka-server
+    environment:
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
+    networks:
+      - tienda-network
+
+networks:
+  tienda-network:
+    driver: bridge

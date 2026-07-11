@@ -1,0 +1,13 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\assembler\DeseoModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\controller\DeseoController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\dto\DeseoRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\dto\DeseoResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\exception\WishlistNoExisteException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\model\Deseo.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\repository\DeseoRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\service\DeseoService.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\wishlist-service\src\main\java\cl\evaluacion\transversal\wishlist_service\WishlistServiceApplication.java

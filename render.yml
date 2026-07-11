@@ -1,0 +1,130 @@
+services:
+  - type: pserv
+    name: eureka-server
+    env: docker
+    dockerContext: ./eureka-server
+    dockerfilePath: ./eureka-server/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8761
+
+  - type: web
+    name: api-gateway
+    env: docker
+    dockerContext: ./api-gateway
+    dockerfilePath: ./api-gateway/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: catalogo-service
+    env: docker
+    dockerContext: ./catalogo-service
+    dockerfilePath: ./catalogo-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: faq-service
+    env: docker
+    dockerContext: ./faq-service
+    dockerfilePath: ./faq-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: logistica-service
+    env: docker
+    dockerContext: ./logistica-service
+    dockerfilePath: ./logistica-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: notificacion-service
+    env: docker
+    dockerContext: ./notificacion-service
+    dockerfilePath: ./notificacion-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: pago-service
+    env: docker
+    dockerContext: ./pago-service
+    dockerfilePath: ./pago-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: pedido-service
+    env: docker
+    dockerContext: ./pedido-service
+    dockerfilePath: ./pedido-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: promociones-service
+    env: docker
+    dockerContext: ./promociones-service
+    dockerfilePath: ./promociones-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: soporte-service
+    env: docker
+    dockerContext: ./soporte-service
+    dockerfilePath: ./soporte-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: usuario-service
+    env: docker
+    dockerContext: ./usuario-service
+    dockerfilePath: ./usuario-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
+
+  - type: pserv
+    name: wishlist-service
+    env: docker
+    dockerContext: ./wishlist-service
+    dockerfilePath: ./wishlist-service/Dockerfile
+    envVars:
+      - key: PORT
+        value: 8080
+      - key: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
+        value: http://eureka-server:8761/eureka/
