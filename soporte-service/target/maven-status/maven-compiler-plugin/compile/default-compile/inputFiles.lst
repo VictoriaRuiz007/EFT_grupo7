@@ -1,0 +1,14 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\assembler\TicketModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\controller\TicketController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\dto\TicketRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\dto\TicketResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\exception\EstadoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\exception\TicketNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\model\Ticket.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\repository\TicketRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\service\TicketService.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\soporte-service\src\main\java\cl\evaluacion\transversal\soporte_service\SoporteServiceApplication.java

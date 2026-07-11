@@ -1,0 +1,14 @@
+cl\evaluacion\transversal\faq_service\controller\FAQController.class
+cl\evaluacion\transversal\faq_service\assembler\FAQModelAssembler.class
+cl\evaluacion\transversal\faq_service\dto\FAQResponse.class
+cl\evaluacion\transversal\faq_service\exception\ApiError.class
+cl\evaluacion\transversal\faq_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\faq_service\dto\FAQRequest.class
+cl\evaluacion\transversal\faq_service\exception\FAQNoEncontradaException.class
+cl\evaluacion\transversal\faq_service\repository\FAQRepository.class
+cl\evaluacion\transversal\faq_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\faq_service\FaqServiceApplication.class
+cl\evaluacion\transversal\faq_service\model\FAQ.class
+cl\evaluacion\transversal\faq_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\faq_service\model\FAQ$FAQBuilder.class
+cl\evaluacion\transversal\faq_service\service\FAQService.class

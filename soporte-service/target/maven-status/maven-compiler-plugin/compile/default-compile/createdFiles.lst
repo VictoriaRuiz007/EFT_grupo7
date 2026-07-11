@@ -1,0 +1,15 @@
+cl\evaluacion\transversal\soporte_service\exception\TicketNoEncontradoException.class
+cl\evaluacion\transversal\soporte_service\dto\TicketResponse.class
+cl\evaluacion\transversal\soporte_service\assembler\TicketModelAssembler.class
+cl\evaluacion\transversal\soporte_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\soporte_service\model\Ticket$TicketBuilder.class
+cl\evaluacion\transversal\soporte_service\service\TicketService.class
+cl\evaluacion\transversal\soporte_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\soporte_service\model\Ticket.class
+cl\evaluacion\transversal\soporte_service\exception\ApiError.class
+cl\evaluacion\transversal\soporte_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\soporte_service\exception\EstadoNoEncontradoException.class
+cl\evaluacion\transversal\soporte_service\dto\TicketRequest.class
+cl\evaluacion\transversal\soporte_service\SoporteServiceApplication.class
+cl\evaluacion\transversal\soporte_service\controller\TicketController.class
+cl\evaluacion\transversal\soporte_service\repository\TicketRepository.class

@@ -1,0 +1,13 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\assembler\FAQModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\controller\FAQController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\dto\FAQRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\dto\FAQResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\exception\FAQNoEncontradaException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\FaqServiceApplication.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\model\FAQ.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\repository\FAQRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\faq-service\src\main\java\cl\evaluacion\transversal\faq_service\service\FAQService.java
