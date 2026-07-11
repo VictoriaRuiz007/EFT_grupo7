@@ -1,0 +1,16 @@
+cl\evaluacion\transversal\usuario_service\exception\CorreoNoEncontradoException.class
+cl\evaluacion\transversal\usuario_service\UsuarioServiceApplication.class
+cl\evaluacion\transversal\usuario_service\controller\UsuarioController.class
+cl\evaluacion\transversal\usuario_service\exception\ApiError.class
+cl\evaluacion\transversal\usuario_service\exception\UsuarioExisteException.class
+cl\evaluacion\transversal\usuario_service\assembler\UsuarioModelAsssembler.class
+cl\evaluacion\transversal\usuario_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\usuario_service\model\Usuario.class
+cl\evaluacion\transversal\usuario_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\usuario_service\repository\UsuarioRepository.class
+cl\evaluacion\transversal\usuario_service\dto\UsuarioRequest.class
+cl\evaluacion\transversal\usuario_service\exception\UsuarioNoEncontradoException.class
+cl\evaluacion\transversal\usuario_service\dto\UsuarioResponse.class
+cl\evaluacion\transversal\usuario_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\usuario_service\model\Usuario$UsuarioBuilder.class
+cl\evaluacion\transversal\usuario_service\service\UsuarioService.class

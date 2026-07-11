@@ -1,0 +1,15 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\assembler\UsuarioModelAsssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\controller\UsuarioController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\dto\UsuarioRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\dto\UsuarioResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\exception\CorreoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\exception\UsuarioExisteException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\exception\UsuarioNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\model\Usuario.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\repository\UsuarioRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\service\UsuarioService.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\usuario-service\src\main\java\cl\evaluacion\transversal\usuario_service\UsuarioServiceApplication.java

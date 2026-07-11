@@ -1,0 +1,13 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\assembler\PedidoModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\controller\PedidoController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\dto\PedidoRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\dto\PedidoResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\exception\PedidoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\model\Pedido.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\PedidoServiceApplication.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\repository\PedidoRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pedido-service\src\main\java\cl\evaluacion\transversal\pedido_service\service\PedidoService.java
