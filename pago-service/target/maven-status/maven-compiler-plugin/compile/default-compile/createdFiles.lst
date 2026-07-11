@@ -1,0 +1,15 @@
+cl\evaluacion\transversal\pago_service\controller\TransaccionController.class
+cl\evaluacion\transversal\pago_service\PagoServiceApplication.class
+cl\evaluacion\transversal\pago_service\exception\ApiError.class
+cl\evaluacion\transversal\pago_service\dto\ErrorResponse.class
+cl\evaluacion\transversal\pago_service\repository\TransaccionRepository.class
+cl\evaluacion\transversal\pago_service\model\Transaccion$TransaccionBuilder.class
+cl\evaluacion\transversal\pago_service\exception\GlobalExceptionHandler.class
+cl\evaluacion\transversal\pago_service\dto\TransaccionResponse.class
+cl\evaluacion\transversal\pago_service\config\SwaggerConfig.class
+cl\evaluacion\transversal\pago_service\model\Transaccion.class
+cl\evaluacion\transversal\pago_service\assembler\TransaccionModelAssembler.class
+cl\evaluacion\transversal\pago_service\service\TransaccionService.class
+cl\evaluacion\transversal\pago_service\exception\TransaccionNoEncontradaException.class
+cl\evaluacion\transversal\pago_service\exception\PedidoNoEncontradoException.class
+cl\evaluacion\transversal\pago_service\dto\TransaccionRequest.class

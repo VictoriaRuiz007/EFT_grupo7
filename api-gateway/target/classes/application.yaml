@@ -1,0 +1,65 @@
+server:
+  port: ${PORT:8080}
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: catalogo-service
+          uri: lb://CATALOGO-SERVICE
+          predicates:
+            - Path: /api/catalogo/**
+        - id: usuario-service
+          uri: lb://USUARIO-SERVICE
+          predicates:
+            - Path: /api/usuarios/**
+        - id: faq-service
+          uri: lb://FAQ-SERVICE
+          predicates:
+            - Path: /api/faq/**
+        - id: pedido-service
+          uri: lb://PEDIDO-SERVICE
+          predicates:
+            - Path: /api/pedidos/**
+        - id: pago-service
+          uri: lb://PAGO-SERVICE
+          predicates:
+            - Path: /api/pago/**
+        - id: notificacion-service
+          uri: lb://NOTIFICACION-SERVICE
+          predicates:
+            - Path: /api/notificaciones/**
+        - id: logistica-service
+          uri: lb://LOGISTICA-SERVICE
+          predicates:
+            - Path: /api/seguimiento/**
+        - id: promociones-service
+          uri: lb://PROMOCIONES-SERVICE
+          predicates:
+            - Path: /api/promociones/**
+        - id: soporte-service
+          uri: lb://SOPORTE-SERVICE
+          predicates:
+            - Path: /api/soporte/**
+        - id: wishlist-service
+          uri: lb://WISHLIST-SERVICE
+          predicates:
+            - Path: /api/wishlist/**
+
+
+management:
+  endpoint:
+    gateway:
+      access: read-only
+  endpoints:
+    web:
+      exposure:
+        include: health, info, gateway
+
+
+
+
+
+

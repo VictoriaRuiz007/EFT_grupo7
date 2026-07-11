@@ -1,0 +1,14 @@
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\assembler\TransaccionModelAssembler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\config\SwaggerConfig.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\controller\TransaccionController.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\dto\ErrorResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\dto\TransaccionRequest.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\dto\TransaccionResponse.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\exception\ApiError.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\exception\GlobalExceptionHandler.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\exception\PedidoNoEncontradoException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\exception\TransaccionNoEncontradaException.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\model\Transaccion.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\PagoServiceApplication.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\repository\TransaccionRepository.java
+C:\Users\zero\Desktop\tienda-videojuegos\tienda-videojuegos\pago-service\src\main\java\cl\evaluacion\transversal\pago_service\service\TransaccionService.java
